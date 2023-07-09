@@ -4,7 +4,7 @@
 + Termux
 
 ### Installation:
-+ ```re -rf FILE```
++ ```rm -rf FILE```
 + ```pip install requests bs4```
 + ```git clone https://github.com/DSH404/FILE.git```
 + ```cd FILE```
